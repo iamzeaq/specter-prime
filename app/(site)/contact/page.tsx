@@ -17,9 +17,22 @@ export default function ContactPage() {
             All inquiries are handled directly by our team in Lagos.
           </p>
           <div className="mt-12 space-y-4">
-            <p className="text-sm text-ink">Lagos, Nigeria</p>
-            <p className="text-sm text-stone">info@specterprime.ng</p>
-            <p className="text-sm text-stone">+234 800 000 0000</p>
+            <p className="text-sm text-ink">Head Office, KM 40 Lekki-Epe Expressway, Lagos</p>
+            <p className="text-sm text-stone">
+              <a href="mailto:specterprimeconstructiongroup@gmail.com" className="hover:text-brass transition">
+                specterprimeconstructiongroup@gmail.com
+              </a>
+            </p>
+            <p className="text-sm text-stone">
+              <a href="tel:+2348030796001" className="hover:text-brass transition">
+                0803 079 6001
+              </a>
+            </p>
+            <p className="text-sm text-stone">
+              <a href="https://wa.me/2348030796001" target="_blank" rel="noopener noreferrer" className="hover:text-brass transition">
+                WhatsApp · 0803 079 6001
+              </a>
+            </p>
           </div>
         </div>
         <QuoteForm />
