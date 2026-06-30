@@ -24,13 +24,18 @@ export default function ContactPage() {
               </a>
             </p>
             <p className="text-sm text-stone">
-              <a href="tel:+2348030796001" className="hover:text-brass transition">
-                0803 079 6001
+              <a href="tel:+2349043080070" className="hover:text-brass transition">
+                0904 308 0070
               </a>
             </p>
             <p className="text-sm text-stone">
-              <a href="https://wa.me/2348030796001" target="_blank" rel="noopener noreferrer" className="hover:text-brass transition">
-                WhatsApp · 0803 079 6001
+              <a href="tel:+2348078871494" className="hover:text-brass transition">
+                0807 887 1494
+              </a>
+            </p>
+            <p className="text-sm text-stone">
+              <a href="https://wa.me/2349043080070" target="_blank" rel="noopener noreferrer" className="hover:text-brass transition">
+                WhatsApp · 0904 308 0070
               </a>
             </p>
           </div>
